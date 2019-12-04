@@ -1,0 +1,11 @@
+C:\Users\Sirje\Desktop\SnakeDraft\SnakeDraft\bin\Debug\netcoreapp3.0\SnakeDraft.exe
+C:\Users\Sirje\Desktop\SnakeDraft\SnakeDraft\bin\Debug\netcoreapp3.0\SnakeDraft.deps.json
+C:\Users\Sirje\Desktop\SnakeDraft\SnakeDraft\bin\Debug\netcoreapp3.0\SnakeDraft.runtimeconfig.json
+C:\Users\Sirje\Desktop\SnakeDraft\SnakeDraft\bin\Debug\netcoreapp3.0\SnakeDraft.runtimeconfig.dev.json
+C:\Users\Sirje\Desktop\SnakeDraft\SnakeDraft\bin\Debug\netcoreapp3.0\SnakeDraft.dll
+C:\Users\Sirje\Desktop\SnakeDraft\SnakeDraft\bin\Debug\netcoreapp3.0\SnakeDraft.pdb
+C:\Users\Sirje\Desktop\SnakeDraft\SnakeDraft\obj\Debug\netcoreapp3.0\SnakeDraft.csprojAssemblyReference.cache
+C:\Users\Sirje\Desktop\SnakeDraft\SnakeDraft\obj\Debug\netcoreapp3.0\SnakeDraft.AssemblyInfoInputs.cache
+C:\Users\Sirje\Desktop\SnakeDraft\SnakeDraft\obj\Debug\netcoreapp3.0\SnakeDraft.AssemblyInfo.cs
+C:\Users\Sirje\Desktop\SnakeDraft\SnakeDraft\obj\Debug\netcoreapp3.0\SnakeDraft.dll
+C:\Users\Sirje\Desktop\SnakeDraft\SnakeDraft\obj\Debug\netcoreapp3.0\SnakeDraft.pdb

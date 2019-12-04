@@ -1,0 +1,11 @@
+C:\Users\Sirje\Desktop\SnakeDraft\Char\bin\Debug\netcoreapp3.0\Char.exe
+C:\Users\Sirje\Desktop\SnakeDraft\Char\bin\Debug\netcoreapp3.0\Char.deps.json
+C:\Users\Sirje\Desktop\SnakeDraft\Char\bin\Debug\netcoreapp3.0\Char.runtimeconfig.json
+C:\Users\Sirje\Desktop\SnakeDraft\Char\bin\Debug\netcoreapp3.0\Char.runtimeconfig.dev.json
+C:\Users\Sirje\Desktop\SnakeDraft\Char\bin\Debug\netcoreapp3.0\Char.dll
+C:\Users\Sirje\Desktop\SnakeDraft\Char\bin\Debug\netcoreapp3.0\Char.pdb
+C:\Users\Sirje\Desktop\SnakeDraft\Char\obj\Debug\netcoreapp3.0\Char.csprojAssemblyReference.cache
+C:\Users\Sirje\Desktop\SnakeDraft\Char\obj\Debug\netcoreapp3.0\Char.AssemblyInfoInputs.cache
+C:\Users\Sirje\Desktop\SnakeDraft\Char\obj\Debug\netcoreapp3.0\Char.AssemblyInfo.cs
+C:\Users\Sirje\Desktop\SnakeDraft\Char\obj\Debug\netcoreapp3.0\Char.dll
+C:\Users\Sirje\Desktop\SnakeDraft\Char\obj\Debug\netcoreapp3.0\Char.pdb
